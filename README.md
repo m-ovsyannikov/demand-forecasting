@@ -38,5 +38,5 @@ Python, pandas, NumPy, scikit-learn, Matplotlib.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
-jupyter notebook misha-proj.ipynb
+jupyter notebook proj_demand.ipynb
 ```
